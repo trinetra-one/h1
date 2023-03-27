@@ -1,7 +1,5 @@
 <?php
 
-require 'master.php';
- 
 ?>
 <?php
 	
